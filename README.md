@@ -1,2 +1,0 @@
-# FirstGit
-Learning Git
